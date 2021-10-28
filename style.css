@@ -1,6 +1,8 @@
 body {
     margin : 0;
-    background-image: linear-gradient(to bottom right, #ff9800, #ffa726);
+    background-image: url("./concrete.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .content {
